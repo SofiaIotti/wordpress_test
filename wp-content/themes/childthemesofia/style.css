@@ -3,11 +3,18 @@ Theme Name: Child Theme Sofia
 Template: twentytwentyfive
 */
 
-body {
-    background-color: #f0f0f0;
+
+* {
+    font-family: 'Lucida Console', monospace;
 }
 
-h1 {
-    color: darkred;
-    font-family: 'Georgia', serif;
+h1{
+    color: #1f471f;
+    font-size: bold;
 }
+
+body{
+    background-color: #c0d3c0;
+    color: #ffffff;
+}
+
